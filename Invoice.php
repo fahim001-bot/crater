@@ -1,5 +1,5 @@
 <?php
-namespace Crater Fahim;
+namespace Crater;
 
 use Illuminate\Database\Eloquent\Model;
 use Crater\InvoiceTemplate;
